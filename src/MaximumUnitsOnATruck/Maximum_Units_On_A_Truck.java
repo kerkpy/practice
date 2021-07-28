@@ -1,3 +1,5 @@
+package MaximumUnitsOnATruck;
+
 import java.util.Arrays;
 
 //Link to problem: https://leetcode.com/problems/maximum-units-on-a-truck/

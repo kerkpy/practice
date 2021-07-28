@@ -1,3 +1,5 @@
+package JumpGameVI;
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 
